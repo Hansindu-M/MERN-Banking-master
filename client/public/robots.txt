@@ -1,0 +1,7 @@
+User-agent: *
+ Allow: /login
+ Allow: /register
+ Allow: /dashboard
+ Disallow: /connection
+ Disallow: /ismsdoc
+ 
